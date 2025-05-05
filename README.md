@@ -1,12 +1,28 @@
-# React + Vite
+🏋️‍♂️ Gym Application
+This Gym Application is a full-featured web-based platform designed to streamline gym management and enhance member experience. It allows gym administrators to manage members, trainers, workout plans, and schedules, while also enabling users to track their fitness journey.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+User registration and login (with authentication)
 
-Currently, two official plugins are available:
+Member profile management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Trainer assignment and management
 
-## Expanding the ESLint configuration
+Workout and diet plan scheduling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Attendance tracking system
+
+Subscription and payment tracking
+
+Admin dashboard with analytics
+
+Responsive UI for mobile and desktop
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript / React
+
+Backend: Node.js, Express.js
+
+Database: MongoDB / MySQL
+
+
